@@ -1,0 +1,15 @@
+Conv
+Conv_1
+Conv_2
+
+expanded_conv:- depthwise, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_1:- depthwise, expand, project, 
+expanded_conv_10:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_2:- depthwise, expand, project, 
+expanded_conv_3:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_4:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_5:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_6:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_7:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_8:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
+expanded_conv_9:- depthwise, expand, project, squeeze_excite:- Conv, Conv_1
