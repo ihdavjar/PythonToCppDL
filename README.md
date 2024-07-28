@@ -9,7 +9,7 @@ This project demonstrates the implementation of deep learning models from scratc
 - **Implemented Models**: Includes popular architectures such as `MobileNetV3-Small`, `ResNet50`, and more.
 
 ## Detailed Description
-For an in-depth description of the project, including the theoretical background, design, and implementation details, please refer to the [project report](link-to-project-report).
+For an in-depth description of the project, including the theoretical background, design, and implementation details, please refer to the [project report](https://github.com/ihdavjar/PythonToCppDL/blob/a8df522b8d264d33da24a932903636d6094eb145/Project/report.pdf).
 
 ## Acknowledgements
 I extend my gratitude to the PyTorch community for providing the pretrained weights and detailed information regarding model architectures. Additionally, I would like to express my sincere appreciation to my teammate, Atharva Ganesh Pade, for his invaluable contributions to this project.
